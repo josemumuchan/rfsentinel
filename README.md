@@ -5,6 +5,10 @@ RF Sentinel is a companion tool made primarily for MAU users, developed with Cla
 <br>
 I developed this tool so I can fully go AFK without worrying that my MAU will be destroyed by raiders. 💥
 
+### Latest Release: [RF_Sentinel_v1.0.0](https://github.com/josemumuchan/rfsentinel/releases/download/v1.0.0/RF_Sentinel_v1.0.0.exe)
+
+View all releases here: https://github.com/josemumuchan/rfsentinel/releases
+
 # ✨ Core Protection Features
 
 ### 🤖 MAU Destruction Prevention 💥
